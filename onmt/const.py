@@ -3,7 +3,7 @@ dialogue discourse relations ditc
 """
 relations_vocab = {
     "global": 0,
-    "Global" : 1
+    "Global" : 1,
     "Comment": 2,
     "Clarification_question": 3,
     "Elaboration": 4,
